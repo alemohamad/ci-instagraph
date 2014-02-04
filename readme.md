@@ -47,7 +47,7 @@ $this->instagraph->process('toaster');
 
 ### Tilt-Shift
 
-![Tilt-Shift](http://alemohamad.com/github/instagraph/instagraph-tilt-shift.jpg)
+![Tilt-Shift](http://alemohamad.com/github/instagraph/instagraph-tiltShift.jpg)
 
 
 
