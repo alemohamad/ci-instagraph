@@ -23,31 +23,31 @@ $this->instagraph->process('toaster');
 
 ## Filters
 
-![Original](http://alemohamad.com/github/instagraph/instagraph.png)
+![Original](http://alemohamad.com/github/instagraph/instagraph.jpg)
 
 ### Toaster
 
-![Toaster](http://alemohamad.com/github/instagraph/instagraph-toaster.png)
+![Toaster](http://alemohamad.com/github/instagraph/instagraph-toaster.jpg)
 
 ### Gotham
 
-![Gotham](http://alemohamad.com/github/instagraph/instagraph-gotham.png)
+![Gotham](http://alemohamad.com/github/instagraph/instagraph-gotham.jpg)
 
 ### Nashville
 
-![Nashville](http://alemohamad.com/github/instagraph/instagraph-nashville.png)
+![Nashville](http://alemohamad.com/github/instagraph/instagraph-nashville.jpg)
 
 ### Lomo
 
-![Lomo](http://alemohamad.com/github/instagraph/instagraph-lomo.png)
+![Lomo](http://alemohamad.com/github/instagraph/instagraph-lomo.jpg)
 
 ### Kelvin
 
-![Kelvin](http://alemohamad.com/github/instagraph/instagraph-kelvin.png)
+![Kelvin](http://alemohamad.com/github/instagraph/instagraph-kelvin.jpg)
 
 ### Tilt-Shift
 
-![Tilt-Shift](http://alemohamad.com/github/instagraph/instagraph-tilt-shift.png)
+![Tilt-Shift](http://alemohamad.com/github/instagraph/instagraph-tilt-shift.jpg)
 
 
 
